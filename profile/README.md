@@ -3,7 +3,7 @@
 
 因此，我们才会开发出面向用户的，**完全免费**的 GaoyiPlayOS。
 
-我们的部分系统组件将会在这里开源 并且统一使用GPL-3.0 license开源
+我们的部分系统组件将会在这里统一使用 GPL-3.0 许可证**强**开源。
 
 ## 了解 GaoyiPlayOS
 GaoyiPlayOS 是一款基于 Android 轻度定制的**光速虚拟机 ROM**。
