@@ -5,6 +5,22 @@
 
 我们的部分系统组件将会在这里统一使用 GPL-3.0 许可证**强**开源。
 
+> [!IMPORTANT]
+> **GitHub 交互功能已关停。请前往主权服务器参与项目。**
+> 我们拒绝被商业算法和闭源规则主宰。GaoyiPlayOS 现已在完全自由的 FOSS 环境中生根发芽。
+> 
+> ### 🏗️ 基础设施堆栈 (The Sovereign Stack)
+> 
+> | 资源 (Resource) | 物理路径 (Ground Truth) |
+> | :--- | :--- |
+> | **代码主权 (Source of Truth)** | [Codeberg](https://codeberg.org/GaoyiPlayOS) |
+> | **项目门户 (Organization)** | [Elektrine @GyPOS](https://elektrine.com/gypos) |
+> | **讨论吹水 (Discussions)** | [elektrine.com/communities/gaoyiplayos](https://elektrine.com/communities/gaoyiplayos) |
+> | **开发者身份 (GPG Key)** | [Verified by Elektrine/Codeberg] |
+> 
+> ---
+> **注意**：GitHub 侧的所有 Issue 提交将被系统自动忽略。如需贡献代码或报告 Bug，请在 Codeberg 注册账号并提交 Pull Request。**GitHub 侧的所有仓库均为 beyond 镜像。**
+
 ## 了解 GaoyiPlayOS
 GaoyiPlayOS 是一款基于 Android 轻度定制的**光速虚拟机 ROM**。
 
